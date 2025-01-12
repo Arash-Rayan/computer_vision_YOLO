@@ -1,1 +1,6 @@
-/.venv
+.venv
+yolov5
+data
+*.mp4
+yolov5s
+yolov5s.pt
