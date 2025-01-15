@@ -4,3 +4,7 @@ data
 *.mp4
 yolov5s
 yolov5s.pt
+*.png
+*.jpg
+*.jpeg
+*.webp
