@@ -8,3 +8,4 @@ yolov5s.pt
 *.jpg
 *.jpeg
 *.webp
+*.model_data
