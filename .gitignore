@@ -1,11 +1,24 @@
-.venv
-yolov5
-data
-*.mp4
-yolov5s
+# Ignore Python virtual environments
+.venv/
+venv/
+
+# Ignore YOLO-related folders and files
+yolov5/
+yolov5s/
 yolov5s.pt
+
+# Ignore dataset folder
+data/
+
+# Ignore video and image files
+*.mp4
 *.png
 *.jpg
 *.jpeg
 *.webp
+
+# Ignore model data files
 *.model_data
+
+# Ignore Jupyter notebook
+test.ipynb
