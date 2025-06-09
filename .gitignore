@@ -22,3 +22,4 @@ data/
 
 # Ignore Jupyter notebook
 test.ipynb
+torchvision-0.17.1+cu118-cp312-cp312-linux_x86_64.whl
